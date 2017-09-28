@@ -1,0 +1,21 @@
+{
+  "name": "doc-conversion",
+  "version": "1.0.0",
+  "description": "Convert DITA docs to Bluemix markdown",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.ibm.com:apimesh/doc-conversion.git"
+  },
+  "author": "C. Rand McKinney",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "glob": "^7.1.2",
+    "nvm": "0.0.4",
+    "replace": "^0.3.0"
+  }
+}

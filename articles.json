@@ -1,0 +1,10 @@
+[
+  { "regex": "---\\n", "replacement": "" },
+  { "regex": "date: .*\\n", "replacement": "" },
+  { "regex": "title: \".*\"\\n", "replacement": "" },
+  { "regex": "slug: .*\\n", "replacement": "" },
+  { "regex": "url: .*\\n", "replacement": "" },
+  { "regex": "### SEE ALSO\\n", "replacement": "" 
+  { "regex": "^## ", "replacement": "# " },
+  { "regex": "###", "replacement": "##" }
+]
